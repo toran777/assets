@@ -9,7 +9,7 @@
                 "@context": {
                     "@propagate": true,
                     "@protected": true,
-                    "vocab": "https://github.com/toran777/assets/main/exampleJob-vocab.md#",
+                    "vocab": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob-vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "jobId": {
                         "@id": "vocab:jobId",
@@ -20,7 +20,7 @@
                         "@type": "xsd:dateTime"
                     }
                 },
-                "@id": "urn:uuid:9e37c756-123b-4238-8dbf-873c6170cbd9"
+                "@id": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld#ProofOfJob"
             }
         }
     ]
