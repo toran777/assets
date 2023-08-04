@@ -9,14 +9,14 @@
                 "@context": {
                     "@propagate": true,
                     "@protected": true,
-                    "polygon-vocab": "urn:uuid:bbd7f710-aa17-4ab5-9c35-2783c34d1ca5#",
+                    "vocab": "https://github.com/toran777/assets/main/exampleJob-vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "jobId": {
-                        "@id": "polygon-vocab:jobId",
+                        "@id": "vocab:jobId",
                         "@type": "xsd:double"
                     },
                     "createdAt": {
-                        "@id": "polygon-vocab:createdAt",
+                        "@id": "vocab:createdAt",
                         "@type": "xsd:dateTime"
                     }
                 },
