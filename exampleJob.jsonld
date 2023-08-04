@@ -14,8 +14,8 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "entryDate": {
-            "@id": "vocab:entryDate",
+          "jobId": {
+            "@id": "vocab:jobId",
             "@type": "xsd:integer"
           }
         }
