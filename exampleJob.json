@@ -3,9 +3,7 @@
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld",
             "jsonSchema": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.json"
-        },
-        "type": "ProofOfJob",
-        "version": "1"
+        }
     },
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "description": "Describes job",
