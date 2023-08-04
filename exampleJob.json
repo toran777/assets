@@ -3,7 +3,7 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.json-ld",
+      "jsonLdContext": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld",
       "jsonSchema": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.json"
     }
   },
