@@ -1,24 +1,26 @@
 {
   "@context": [
     {
-      "@version": 1.1,
       "@protected": true,
+      "@version": 1.1,
       "id": "@id",
       "type": "@type",
       "ProofOfJob": {
-        "@id": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld#ProofOfJob",
         "@context": {
-          "@version": 1.1,
+          "@propagate": true,
           "@protected": true,
-          "id": "@id",
-          "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob-vocab.md#",
+          "polygon-vocab": "urn:uuid:bbd7f710-aa17-4ab5-9c35-2783c34d1ca5#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "jobId": {
-            "@id": "vocab:jobId",
-            "@type": "xsd:integer"
+            "@id": "polygon-vocab:jobId",
+            "@type": "xsd:double"
+          },
+          "createdAt": {
+            "@id": "polygon-vocab:createdAt",
+            "@type": "xsd:dateTime"
           }
-        }
+        },
+        "@id": "urn:uuid:9e37c756-123b-4238-8dbf-873c6170cbd9"
       }
     }
   ]
