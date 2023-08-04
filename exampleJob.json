@@ -1,7 +1,8 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.jsonld",
+            "jsonSchema": "https://raw.githubusercontent.com/toran777/assets/main/exampleJob.json"
         },
         "type": "ProofOfJob",
         "version": "1"
