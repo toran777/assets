@@ -13,7 +13,7 @@
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "jobId": {
                         "@id": "vocab:jobId",
-                        "@type": "xsd:double"
+                        "@type": "xsd:string"
                     },
                     "createdAt": {
                         "@id": "vocab:createdAt",
