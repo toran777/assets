@@ -16,7 +16,7 @@
                 "jobId": {
                     "description": "Describes jobId",
                     "title": "jobId",
-                    "type": "number"
+                    "type": "string"
                 },
                 "createdAt": {
                     "description": "Describe when job was created",
