@@ -1,0 +1,6 @@
+{
+  "GitHubAuthentication": "${username} @ GitHub",
+  "DiscordAuthentication": "${username} @ Discord",
+  "TwitterAuthentication": "${username} @ Twitter",
+  "KYC": "${name} @ ${issuer}"
+}
