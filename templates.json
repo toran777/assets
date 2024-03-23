@@ -1,18 +1,18 @@
 {
   "GitHubAuthentication": {
-    "title": "${username} @ GitHub"
+    "title": "${username} @ GitHub",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "DiscordAuthentication": {
-    "title": "${username} @ Discord"
+    "title": "${username} @ Discord",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "TwitterAuthentication": {
-    "title": "${username} @ Twitter"
+    "title": "${username} @ Twitter",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "KYC": {
-    "title": "${username} @ ${issuer}"
+    "title": "${username} @ ${issuer}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   }
 }
