@@ -12,7 +12,7 @@
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "MemberOfOrganization": {
-    "title": "Member @ {name}",
+    "title": "Member @ ${name}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "KYC": {
