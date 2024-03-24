@@ -11,6 +11,10 @@
     "title": "${username} @ Twitter",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
+  "MemberOfOrganization": {
+    "title": "Member @ {name}",
+    "subtitle": "Issued by ${issuer} on ${issuanceDate}"
+  },
   "KYC": {
     "title": "${username} @ ${issuer}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
