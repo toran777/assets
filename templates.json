@@ -16,7 +16,7 @@
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
   "KYC": {
-    "title": "${username} @ ${issuer}",
+    "title": "${name} @ ${issuer}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   }
 }
