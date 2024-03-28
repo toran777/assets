@@ -15,6 +15,10 @@
     "title": "Member @ ${name}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
   },
+  "TelegramAuthentication": {
+    "title": "${username} @ Telegram",
+    "subtitle": "Issued by ${issuer} on ${issuanceDate}"
+  },
   "KYC": {
     "title": "${name} @ ${issuer}",
     "subtitle": "Issued by ${issuer} on ${issuanceDate}"
